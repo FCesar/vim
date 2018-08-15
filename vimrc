@@ -28,6 +28,7 @@ set laststatus=2
 
 set backspace=2
 
+nmap <NL> i<CR><ESC>
 
 
 
