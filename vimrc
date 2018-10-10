@@ -30,7 +30,9 @@ set backspace=2
 
 nmap <NL> i<CR><ESC>
 
+set list
 
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
 
 
