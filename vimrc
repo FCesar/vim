@@ -40,7 +40,9 @@ set colorcolumn=+1
 
 nmap <NL> i<CR><ESC>
 
+set list
 
+set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
 
 
