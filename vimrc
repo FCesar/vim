@@ -12,6 +12,8 @@ set tabstop=4
 
 set shiftwidth=4
 
+set softtabstop=4
+
 set expandtab
 
 set number 
@@ -38,8 +40,12 @@ set fo+=t
 
 set colorcolumn=+1
 
+highlight ColorColumn ctermbg=darkgray
+
 nmap <NL> i<CR><ESC>
 
 set list
 
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
+
+let g:DoxygenToolkit_authorName="Fernando Cesar"
