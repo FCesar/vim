@@ -22,8 +22,6 @@ set relativenumber
 
 set ruler
 
-set visualbell
-
 set encoding=utf-8
 
 set laststatus=2
@@ -49,3 +47,5 @@ set list
 set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 
 let g:DoxygenToolkit_authorName="Fernando Cesar"
+
+set hlsearch
