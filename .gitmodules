@@ -10,6 +10,3 @@
 [submodule "bundle/youcompleteme"]
 	path = bundle/youcompleteme
 	url = https://github.com/Valloric/YouCompleteMe.git
-[submodule "/Users/fcesar/.vim/bundle/kotlin-vim"]
-	path = /Users/fcesar/.vim/bundle/kotlin-vim
-	url = https://github.com/udalov/kotlin-vim
