@@ -10,3 +10,9 @@
 [submodule "bundle/youcompleteme"]
 	path = bundle/youcompleteme
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/autosave"]
+	path = bundle/autosave
+	url = https://github.com/vim-scripts/vim-auto-save.git
